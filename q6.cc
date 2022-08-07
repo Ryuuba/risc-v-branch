@@ -1,4 +1,5 @@
-int main(){
+int main()
+{
     int sel = 0;
     int a;
     switch (sel)
