@@ -1,4 +1,4 @@
-# A11: Compilación de bloques condicionales
+# Compilación de bloques condicionales
 
 Los siguientes problemas se resuelven empleando instrucciones y pseudoinstruccioes de bifurcación. Para hacer la traducción de un bloque condicional escrito en alto nivel a ensamblador, debe usarse la instrucción en ensamblador que corresponda al complemento del operador relacional usado en alto nivel para determinar la condición de salto. Esta regla es válida siempre que la condición del bloque use un único operador relacional y no operadores booleanos.
 
