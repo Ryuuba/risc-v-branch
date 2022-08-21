@@ -6,12 +6,12 @@ Los siguientes problemas se resuelven empleando instrucciones y pseudoinstruccio
 
 | C++         | RISC-V      |
 | ----------- | ----------- |
-| ==          | bne         |
-| !=          | beq         |
-| <           | bge         |
-| >=          | blt         |
-| >           | ble         |
-| <=          | bgt         |
+| ==          | beq         |
+| !=          | bne         |
+| <           | blt         |
+| >=          | bge         |
+| >           | bgt         |
+| <=          | ble         |
 
 ## Problemas
 
